@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A defence of the B. Trinity by Isaac Barrow ...</title>
+            <author>Barrow, Isaac, 1630-1677.</author>
+         </titleStmt>
+         <extent>Approx. 63KB of XML-encoded text transcribed from 54 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17512</idno><idno type="EEBO-CITATION">12537557</idno>
+  <idno type="VID">199230</idno>
+  <idno type="EEBO-PROQUEST">2264224284</idno>
+  
+            <idno type="STC">Wing B931</idno>
+            <idno type="OCLC">12537557</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17512)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 199230)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 304:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A defence of the B. Trinity by Isaac Barrow ...</title>
+                  <author>Barrow, Isaac, 1630-1677.</author>
+               </titleStmt>
+               <extent>[7], 97, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for B. Aylmer ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Never before printed"</note>
+                  <note>Advertisements: p. [7] at beginning and p. [1] at end.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Trinity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:199230:1"/>
+            <p>A DEFENCE OF THE <hi>B. Trinity.</hi>
+            </p>
+            <p>BY <hi>ISAAC BARROW,</hi> D. D. Late Master of <hi>Trinity</hi> College in <hi>Cambridge.</hi>
+            </p>
+            <p>
+               <hi>Never before Printed.</hi>
+            </p>
+            <q>There are Three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these Three are One. <bibl>
+                  <hi>1. Joh. 5.7.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>B. Aylmer,</hi> at the <hi>Three Pigeons</hi> against the <hi>Royal Exchange</hi> in <hi>Cornhill.</hi> MDCXCVII.</p>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:199230:2"/>
+            <pb facs="tcp:199230:2"/>
+            <p>A DEFENCE OF THE B. TRINITY.</p>
+         </div>
+         <div type="quotation">
+            <pb facs="tcp:199230:3"/>
+            <head>Trinity <hi>Sunday. 1663.</hi>
+            </head>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <bibl>Greg. Naz. <hi>Orat.</hi> 26.</bibl>
+            </p>
+         </div>
+         <div type="booksellers_note">
+            <pb facs="tcp:199230:4"/>
+            <pb facs="tcp:199230:4"/>
+            <head>THE Bookseller's Advertisement.</head>
+            <p>THIS Excellent and Sea<g ref="char:EOLhyphen"/>sonable Discourse in De<g ref="char:EOLhyphen"/>fence of the Blessed Trinity; the Original Copy whereof was found in the Late Learned Archbishop <hi>Tillotson</hi>'s Study after his De<g ref="char:EOLhyphen"/>cease; and being among many other Duplicate Manuscripts of the Late Learned Dr. <hi>Isaac Bar<g ref="char:EOLhyphen"/>row</hi>'s Sermons, since printed in Folio, was most certainly over<g ref="char:EOLhyphen"/>look'd by His Grace upon Publish<g ref="char:EOLhyphen"/>ing His Works; which might very easily be in so great a number; for Dr. <hi>Barrow</hi> usually writ
+<pb facs="tcp:199230:5"/>them several times over before he thought them finished.</p>
+            <p>This had his last Hand, as may be presumed, being very fair and perfect, and every word of his own writing; which, lest any should doubt of, I have preser<g ref="char:EOLhyphen"/>ved the Copy in my own Hands, where any one that pleases may see it, and be satisfied.</p>
+            <closer>
+               <signed>B. Aylmer.</signed>
+            </closer>
+         </div>
+         <div type="publishers_advertisement">
+            <p>Lately Printed, A Seasonable Vin<g ref="char:EOLhyphen"/>dication. of the <hi>B. Trinity.</hi> Being an Answer to this Question, <hi>Why do you believe the Doctrine of the Trinity?</hi> Col<g ref="char:EOLhyphen"/>lected from the Works of the Most Re<g ref="char:EOLhyphen"/>verend, Dr. <hi>John Tillotson,</hi> late Lord Archbishop of <hi>Canterbury.</hi> And the Right Reverend, Dr. <hi>Edward Stilling-fleet,</hi> Now Lord Bishop of <hi>Worcester.</hi> By <hi>W. Asheton,</hi> D. D.</p>
+            <p>Printed for <hi>B. Aylmer.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:199230:1"/>
+            <head>A DEFENCE OF THE B. TRINITY.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>COL. III. 2.</hi>
+                  </bibl>
+                  <p>Set your affections on things above.
+<note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note>
+                  </p>
+               </q>
+            </epigraph>
+            <p>FOR understanding this Apostolical Precept, two Particulars must be considered; first the Act, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (which is rendred to <hi>set
+<pb n="2" facs="tcp:199230:6"/>our affections</hi>) then the Object, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>things above;</hi> these we briefly shall explain.</p>
+            <p>The word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> doth pri<g ref="char:EOLhyphen"/>marily, and also according to common use, denote an ad<g ref="char:EOLhyphen"/>vertency, or intent application of the mind upon any Object: Of the mind, that is, of a man's Soul, especially of its rational part; so as to include the powers of Understanding, Will, Affection, Activity; whence it may imply direction of our Understanding to know; of our Will to chuse and embrace; of our Affection to love, de<g ref="char:EOLhyphen"/>sire, relish; of our Activity to pursue any good (real or apparent) which is proposed;
+<pb n="3" facs="tcp:199230:6"/>according to which most com<g ref="char:EOLhyphen"/>prehensive sense (suting the nature of the thing) I do take the word, supposing that Saint <hi>Paul</hi> doth enjoin us to employ all our mental Faculties in stu<g ref="char:EOLhyphen"/>dy, choice, passion, endea<g ref="char:EOLhyphen"/>vour upon supernal things.</p>
+            <p>The <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (things above) may be so taken, as to import all things relating to our spi<g ref="char:EOLhyphen"/>ritual Life here, or our future State hereafter; the which do either actually subsist above in Heaven, or have a final refe<g ref="char:EOLhyphen"/>rence thither; so they may comprize, 1. The Substantial Beings, to whom we stand related, owe respect, perform duty: 2. The state and con<g ref="char:EOLhyphen"/>dition
+<pb n="4" facs="tcp:199230:7"/>of our spiritual Life here, or hereafter, as we are Servants and Subjects of God, Citizens of Heaven, Candi<g ref="char:EOLhyphen"/>dates of Immortal Happiness: 3. Rules to be observed, Qua<g ref="char:EOLhyphen"/>lities to be acquired, Actions to be performed, Means to be used by us in regard to the su<g ref="char:EOLhyphen"/>perior Place and State.</p>
+            <p>Of these things the incom<g ref="char:EOLhyphen"/>parably Principal and Su<g ref="char:EOLhyphen"/>pream, the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, is the ever most Glorious and Blessed Trinity; to the minding of which this day is peculiarly de<g ref="char:EOLhyphen"/>dicated, and the which indeed is always the most Excellent, most Beneficial, most Com<g ref="char:EOLhyphen"/>fortable Object of our contem<g ref="char:EOLhyphen"/>plation,
+<pb n="5" facs="tcp:199230:7"/>and affection; where<g ref="char:EOLhyphen"/>fore upon it I shall now im<g ref="char:EOLhyphen"/>mediately fix my Discourse.</p>
+            <p>The Sacred Trinity may be considered, either as it is in it self wrapt up in unexpli<g ref="char:EOLhyphen"/>cable folds of Mystery; or as it hath discovered it self opera<g ref="char:EOLhyphen"/>ting in wonderful methods of Grace toward us.</p>
+            <p>As it is in it self, 'tis an Object too bright and dazling for our weak eye to fasten up<g ref="char:EOLhyphen"/>on, an Abyss too deep for our short reason to fathome; I can only say, That we are so bound to mind it, as to ex<g ref="char:EOLhyphen"/>ercise our Faith, and express our Humility, in willingly
+<pb n="6" facs="tcp:199230:8"/>believing, in submissively a<g ref="char:EOLhyphen"/>doring those high Mysteries which are revealed in the Ho<g ref="char:EOLhyphen"/>ly Oracles concerning it; by that Spirit it self, <hi>which search<g ref="char:EOLhyphen"/>eth the depths of God,</hi> and by that only Son of God, who residing in his Father's Bo<g ref="char:EOLhyphen"/>some, hath thence brought them forth,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Joh. 1.18.</note> and <hi>expounded them</hi> to us, so far as was fit for our capacity and use: And the Lectures so read by the Eternal <hi>Wisdom of God,</hi> the Propositions uttered by the Mouth of <hi>Truth it self,</hi> we are obliged with a docile Ear, and a credulous Heart, to entertain.</p>
+            <pb n="7" facs="tcp:199230:8"/>
+            <p> That there is one Divine Nature or Essence, common unto. Three Persons incom<g ref="char:EOLhyphen"/>prehensibly united, and inef<g ref="char:EOLhyphen"/>fably distinguished; united in Essential Attributes, distin<g ref="char:EOLhyphen"/>guished by peculiar Idioms and Relations; all equally infinite in every Divine Per<g ref="char:EOLhyphen"/>fection, each different from other in order and manner of subsistence;
+<note place="margin">Joh. 10.38.14.10.17.21.</note> that there is a mu<g ref="char:EOLhyphen"/>tual inexistence of one in all, and all in one; a communicati<g ref="char:EOLhyphen"/>on without any deprivation or diminution in the Communi<g ref="char:EOLhyphen"/>cant; an Eternal Generation, and an Eternal Procession without precedence or succes<g ref="char:EOLhyphen"/>sion, without proper causa<g ref="char:EOLhyphen"/>lity
+<pb n="8" facs="tcp:199230:9"/>or dependence; a Father imparting his own, and the Son receiving his Father's Life, and a Spirit issuing from both, without any division, or mul<g ref="char:EOLhyphen"/>tiplication of Essence; these are Notions which may well puzzle our Reason in con<g ref="char:EOLhyphen"/>ceiving how they agree, but should not stagger our Faith in assenting that they are true; upon which we should medi<g ref="char:EOLhyphen"/>tate, not with hope to com<g ref="char:EOLhyphen"/>prehend, but with disposition to admire, veiling our Faces in the presence, and prostra<g ref="char:EOLhyphen"/>ting our Reason at the Feet of Wisdom so far transcend<g ref="char:EOLhyphen"/>ing us.</p>
+            <pb n="9" facs="tcp:199230:9"/>
+            <p> There be those, who, be<g ref="char:EOLhyphen"/>cause they cannot untie, dare to cut in sunder these sacred Knots; who, because they cannot fully conceive it, dare flatly to deny them; who, instead of confessing their own infirmity, do charge the plain Doctrines and Assertions of Holy Scripture with impossi<g ref="char:EOLhyphen"/>bility. Others seem to think they can demonstrate these My<g ref="char:EOLhyphen"/>steries by Arguments ground<g ref="char:EOLhyphen"/>ed upon Principles of Natu<g ref="char:EOLhyphen"/>ral Light; and express it by Similitudes derived from com<g ref="char:EOLhyphen"/>mon Experience: To repress the Presumption of the for<g ref="char:EOLhyphen"/>mer, and to restrain the Cu<g ref="char:EOLhyphen"/>riosity of the latter, the fol<g ref="char:EOLhyphen"/>lowing
+<pb n="10" facs="tcp:199230:10"/>Considerations (im<g ref="char:EOLhyphen"/>proved by your thoughts) may perhaps somewhat con<g ref="char:EOLhyphen"/>duce.</p>
+            <p n="1">1. We may consider, that our Reason is no competent or capable Judge concerning Propositions of this nature:
+<note place="margin">
+                  <hi>Nobis ad intellectum pectus angu<g ref="char:EOLhyphen"/>stum est, &amp;c.</hi> Min. F.</note>
+               <hi>Our Breast</hi> (as <hi>Minutius</hi> speak<g ref="char:EOLhyphen"/>eth) <hi>is a narrow Vessel, that will not hold much Understand<g ref="char:EOLhyphen"/>ing;</hi> 'tis not sufficient, nor was ever designed to sound such depths;
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Plato <hi>in</hi> Tim.</note> to descry the ra<g ref="char:EOLhyphen"/>dical Principles of all Being; to reach the extreme possibili<g ref="char:EOLhyphen"/>ties of things. Such an intel<g ref="char:EOLhyphen"/>lectual Capacity is vouchsafed to us as doth sute to our de<g ref="char:EOLhyphen"/>gree
+<pb n="11" facs="tcp:199230:10"/>(the lowest Rank of In<g ref="char:EOLhyphen"/>telligent Creatures) as becom<g ref="char:EOLhyphen"/>eth our Station in this inferi<g ref="char:EOLhyphen"/>our part of the World; as may qualify us to discharge the petty Businesses commit<g ref="char:EOLhyphen"/>ted to our management, and the facile Duties incumbent on us; but to know what God is, how he subsisteth, what he can, what he should do, by our natural Perspicacity, or by any means we can use, farther than he pleaseth to reveal, doth not sute to the meanness of our Condition, or the narrowness of our Capacity; these really are the most elevated Sublimi<g ref="char:EOLhyphen"/>ties, and the abstrusest Subtil<g ref="char:EOLhyphen"/>ties that are, or can be in the
+<pb n="12" facs="tcp:199230:11"/>nature of things; he that can penetrate them, may erect his Tribunal any where in the World, and pretend justly that nothing in Heaven or Earth is exempted from his Judgment: But in truth, how unfit our Reason is to exercise such uni<g ref="char:EOLhyphen"/>versal Jurisdiction, we may discern by comparing it to our Sense; it is obvious that many Beasts do (by advantage of a finer Sense) see, hear, smell things imperceptible to us; and were it not very unreaso<g ref="char:EOLhyphen"/>nable to conclude that such things do not exist, or are in themselves altogether insensi<g ref="char:EOLhyphen"/>ble, because they do not at all appear to us? Is it not evi<g ref="char:EOLhyphen"/>dent,
+<pb n="13" facs="tcp:199230:11"/>that we ought to im<g ref="char:EOLhyphen"/>pute their imperceptibility (re<g ref="char:EOLhyphen"/>specting us) to the defect of our Sense, to its dulness and grosness, in regard to the sub<g ref="char:EOLhyphen"/>tilty of those Objects? Even so may Propositions in them<g ref="char:EOLhyphen"/>selves, and in regard to the capacity of higher Understand<g ref="char:EOLhyphen"/>ings (for there are gradual dif<g ref="char:EOLhyphen"/>ferences in Understanding, as well as in Sense) be true and very intelligible, which to our inferiour Reason seem unintel<g ref="char:EOLhyphen"/>ligible, or repugnant to the Prenotions, with which our Soul is imbued; and our not discerning those Truths, may argue the blindness and weak<g ref="char:EOLhyphen"/>ness of our Understanding, not
+<pb n="14" facs="tcp:199230:12"/>any fault or inconsistency in the things themselves; nor should it cause us anywise to distrust them, if they come recommended to our belief by competent Authority.</p>
+            <p>To such purposes indeed the Holy Scripture frequently doth vilify our Reason and Know<g ref="char:EOLhyphen"/>ledge:
+<note place="margin">Jer. 10.14.</note>
+               <hi>Every man</hi> (saith <hi>Jere<g ref="char:EOLhyphen"/>my) is brutish in knowledge. The Lord</hi> (saith the <hi>Psalmist) knoweth the thoughts of men (of wise men,</hi>
+               <note place="margin">Ps. 103.14.</note>
+               <note place="margin">1 Cor. 3.10.</note> as St. <hi>Paul</hi> quoteth it) <hi>that they are vanity. Vain man</hi> (saith he in <hi>Job) would be wise,</hi>
+               <note place="margin">Job 11.12.</note>
+               <hi>though man be born like an Asses colt;</hi> (that is, However we affect to seem wise, yet to be dull as an Ass, to be wild
+<pb n="15" facs="tcp:199230:12"/>as a Colt, is natural to us.) <hi>My thoughts</hi> (saith God in the Pro<g ref="char:EOLhyphen"/>phet) <hi>are not your thoughts,</hi>
+               <note place="margin">Is. 55.8.</note>
+               <hi>nor are your ways, my ways; for as the heavens are higher than the earth, so are my ways than your ways; and my thoughts than your thoughts:</hi> God's Wisdom is as the Heavens, the highest and top of all Wisdom; Man's as the Earth, beneath which there is no degree, but that of Hell and Darkness: We therefore in this respect are unfit to determine concerning things so exceedingly sublime and subtle.</p>
+            <p n="2">2. We may consider, that not only the imperfection of our Reason it self, but the
+<pb n="16" facs="tcp:199230:13"/>manner of using it doth inca<g ref="char:EOLhyphen"/>pacitate us to judge about these Matters. Had we com<g ref="char:EOLhyphen"/>petent Skill to sail in this deep Ocean, yet we do want a Gale to drive us; and a Compass to steer our Course by therein; we have not any firm grounds to build our Judgment on, or certain Rules to square it by. We cannot effectually discourse or deter<g ref="char:EOLhyphen"/>mine upon any Subject, with<g ref="char:EOLhyphen"/>out having Principles homo<g ref="char:EOLhyphen"/>geneous and pertinent thereto (that are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<note place="margin">Anal. I. 7.</note> cognate and congruous to the Subject-matter, as the Philo<g ref="char:EOLhyphen"/>sopher speaketh) upon which to found, our Argumentation:
+<pb n="17" facs="tcp:199230:13"/>Now all the Principles we can have, are either originally in<g ref="char:EOLhyphen"/>nate to our Minds; or after<g ref="char:EOLhyphen"/>ward immediately infused by God, or by external Instru<g ref="char:EOLhyphen"/>ction from him disclosed to us; or acquired by our Ex<g ref="char:EOLhyphen"/>perience, and observation of things incurring our Sense; or framed by our Reason, comparing those means; of which the three former sorts are most arbitrarily commu<g ref="char:EOLhyphen"/>nicated, and both for num<g ref="char:EOLhyphen"/>ber and kind depend upon the free pleasure of him, who distributeth them ac<g ref="char:EOLhyphen"/>cording <hi>to a measure</hi> sutable to each man's occasions,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Rom. 12.</note> esti<g ref="char:EOLhyphen"/>mated by himself; how ma<g ref="char:EOLhyphen"/>ny
+<pb n="18" facs="tcp:199230:14"/>those are, and how far they may qualify us to judge, or discourse about those transcendent Matters, is hard to define; but most certainly they never can clash with one another; no Light in any manner imparted by God can obscure the Do<g ref="char:EOLhyphen"/>ctrine declared by him, no Doctrine can thwart Princi<g ref="char:EOLhyphen"/>ples instilled by him. The latter sorts appertain only to material and sensible Ob<g ref="char:EOLhyphen"/>jects; which therefore can only enable us to deduce, or to examine Conclusions relating to them; and be<g ref="char:EOLhyphen"/>ing applied to things of ano<g ref="char:EOLhyphen"/>ther kind, are abused, so
+<pb n="19" facs="tcp:199230:14"/>as to become apt to pro<g ref="char:EOLhyphen"/>duce great mistakes: As, for instance, most Ancient Phi<g ref="char:EOLhyphen"/>losophers observing, that the Changes and Vicissitudes in Nature were generally, by the same Matters undergo<g ref="char:EOLhyphen"/>ing several Alterations, or putting on different Shapes; and that Bodies once being in rest, did usually consist in that state, until by im<g ref="char:EOLhyphen"/>pulse of other Bodies they were put into motion, did thence frame such Axioms, or Principles of Discourse, <hi>Ex nihilo nihil fit;</hi> and <hi>Quic<g ref="char:EOLhyphen"/>quid movetur, ab alio move<g ref="char:EOLhyphen"/>tur;</hi> which Propositions, sup<g ref="char:EOLhyphen"/>posing them true in rela<g ref="char:EOLhyphen"/>tion
+<pb n="20" facs="tcp:199230:15"/>to the present conditions and Powers of sensible things, yet were it unlawful to stretch them unto Beings of another kind and nature,
+<note place="margin">
+                  <hi>Id quod Deus est, secundum id quod est nec humano sermone edi<g ref="char:EOLhyphen"/>ci, nec humanis auri<g ref="char:EOLhyphen"/>bus percipi, nec huma<g ref="char:EOLhyphen"/>nis sensibus colligi po<g ref="char:EOLhyphen"/>test.</hi> Novat. de Trin. cap. 7.</note> (to Beings immaterial and in<g ref="char:EOLhyphen"/>sensible.) Or to in<g ref="char:EOLhyphen"/>fer thence general<g ref="char:EOLhyphen"/>ly, that in the ut<g ref="char:EOLhyphen"/>most possibility of things there is not any creative, or any self-motive Power: Even as from the like Premises it would be vain to conclude, that there be no other Beings subsistent beside those which strike our Senses, or disco<g ref="char:EOLhyphen"/>ver themselves by sensible
+<pb n="21" facs="tcp:199230:15"/>Effects: In like manner, it cannot be reasonable out of Principles drawn from ordi<g ref="char:EOLhyphen"/>nary Experience, about these most low and imperfect things, to collect,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Naz. <hi>Or.</hi> 37. <hi>de Sp. S.</hi>
+               </note> that there can be no other kind of Unions, of Distin<g ref="char:EOLhyphen"/>ctions, of Genera<g ref="char:EOLhyphen"/>tions, of Processions, than such as our own gross Sense doth represent to us: Reason it self more forcibly doth oblige us to think that to sublimer Beings there do pertain modes of Exi<g ref="char:EOLhyphen"/>stence and Action, Unions and Distinctions, Influences and Emanations of a more
+<pb n="22" facs="tcp:199230:16"/>high and perfect kind, such as our course Ap<g ref="char:EOLhyphen"/>prehension cannot adequate,
+<note place="margin">
+                  <hi>Cùm quaeritur quid tres, magnâ inopiâ hu<g ref="char:EOLhyphen"/>manum laborat eloqui<g ref="char:EOLhyphen"/>um; dictum est tamen tres personae, non ut il<g ref="char:EOLhyphen"/>lud diceretur, sed nè ta<g ref="char:EOLhyphen"/>ceretur.</hi> Aug. <hi>de Trin.</hi> 5.9.</note> nor our rude Language ex<g ref="char:EOLhyphen"/>press; which we, perhaps, have no Faculty subtle e<g ref="char:EOLhyphen"/>nough to conceive distinctly,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Naz. <hi>Orat.</hi> 45. (<hi>ad</hi> Evagr.)</note> nor can attain any con<g ref="char:EOLhyphen"/>gruous Principles, from which to dis<g ref="char:EOLhyphen"/>course solidly about them; to judge of these things, if we will not a<g ref="char:EOLhyphen"/>gainst the Philosopher's Rule, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>shift kinds,</hi> or use improper and impertinent Arguments, we
+<pb n="23" facs="tcp:199230:16"/>must <hi>compare spiri<g ref="char:EOLhyphen"/>tual things with spi<g ref="char:EOLhyphen"/>ritual,</hi>
+               <note place="margin">1 Cor. 2.13. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> so as to draw Conclusions about Spirituals only from Princi<g ref="char:EOLhyphen"/>ples revealed by God's Spi<g ref="char:EOLhyphen"/>rit, the sole Master of Spi<g ref="char:EOLhyphen"/>ritual Science; so also as to express them not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>in terms devised by humane Wisdom,</hi> but in such as the Holy Spirit hath suggested; for <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a man endowed merely with common Sense (or natural Reason) can<g ref="char:EOLhyphen"/>not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>apprehend,</hi> or per<g ref="char:EOLhyphen"/>ceive those <hi>things of God, which only the Spirit of God doth know.</hi> To improve and
+<pb n="24" facs="tcp:199230:17"/>press which Consideration, farther,</p>
+            <p n="3">3. We may consider the weakness and shortness of our Reason, even about things most familiar, and easy to us; the little or nothing we by our utmost diligence can attain to know concerning their intrinsick Essences, their Properties, their Causes and manners of production. What do we more commonly hear, than earnest Complaints from the most Industrious Searchers of Natural Knowledge con<g ref="char:EOLhyphen"/>cerning the great obscurity of Nature, the difficulty of finding Truth, the blindness
+<pb n="25" facs="tcp:199230:17"/>of our Mind, and impoten<g ref="char:EOLhyphen"/>cy of our Reason? And should they be silent, yet Experience plainly would speak how difficult, if not impossible, it is to arrive unto any clear and sure knowledge of these common Objects; seeing the most se<g ref="char:EOLhyphen"/>dulous Inquiries, undertaken by the Choicest Wits for above Two thousand Years, have scarce perhaps exhibi<g ref="char:EOLhyphen"/>ted one unquestionable Theo<g ref="char:EOLhyphen"/>reme in Natural Philosophy, one unexceptionable Maxim of Ethical Prudence or Po<g ref="char:EOLhyphen"/>licy; all things being still exposed to doubt and dis<g ref="char:EOLhyphen"/>pute, as they were of old,
+<pb n="26" facs="tcp:199230:18"/>when first Admiration and Curiosity did prompt men to hunt after the Causes of things; the most however that after all our care and toil we can perceive doth not exceed some faint Colours,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Greg. Naz. <hi>Or.</hi> 26.</note> some su<g ref="char:EOLhyphen"/>perficial Figures, some gross effects of things, while their radi<g ref="char:EOLhyphen"/>cal Properties, and their im<g ref="char:EOLhyphen"/>mediate Causes remain in<g ref="char:EOLhyphen"/>veloped, and debarred from our fight in unaccessible Darkness. Shall we then, who cannot pierce into the nature of a Peble, that can<g ref="char:EOLhyphen"/>not apprehend how a Mush<g ref="char:EOLhyphen"/>rome doth grow, that are
+<pb n="27" facs="tcp:199230:18"/>baffled in our Philosophy about a Gnat, or a Worm, debate and decide (beyond what is taught us from a<g ref="char:EOLhyphen"/>bove) concerning the pre<g ref="char:EOLhyphen"/>cise manner of Divine Es<g ref="char:EOLhyphen"/>sence, Subsistence, or Gene<g ref="char:EOLhyphen"/>ration?
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; Chrys. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>I do</hi> (saith St. <hi>Chrysostome</hi>) <hi>eat Meats, but how they are divided into Flegm, into Blood, into Juice, into Choler, I am ig<g ref="char:EOLhyphen"/>norant; these things which every day we see and taste, we do not know; and are we curious about the Essence of God?</hi> We are (as <hi>Aristotle</hi> him<g ref="char:EOLhyphen"/>self, no Dunce, no Idiot,
+<note place="margin">Arist. <hi>Met.</hi> 2.1.</note>
+               <pb n="28" facs="tcp:199230:19"/>doth confess) but <hi>Owl-eyed,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>in regard to things na<g ref="char:EOLhyphen"/>turally most evident,</hi> and pal<g ref="char:EOLhyphen"/>pable; and can we be such <hi>Lynceus</hi>'s, as to see through the farthest Recesses of Infi<g ref="char:EOLhyphen"/>nity?
+<note place="margin">Sap. 9.13.</note>
+               <hi>Hardly</hi> (saith the <hi>Wis<g ref="char:EOLhyphen"/>dom</hi> of <hi>Solomon</hi>) <hi>do we guess aright of things upon the earth, and with labour do we find the things that are before us, but the things that are in hea<g ref="char:EOLhyphen"/>ven, who hath searched out?</hi> Yea, and the genuine <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> himself,
+<note place="margin">Eccles. 7.23.</note>
+               <hi>I said I will be wise, but it was far from me; that which is far off, and ex<g ref="char:EOLhyphen"/>ceeding deep, who can find it out?</hi> What is more remote,
+<pb n="29" facs="tcp:199230:19"/>what more profound, than God's Nature, who then can find it out? sooner with our Hands may we touch the extreme surface of the Skies, sooner with our Eyes may we pierce to the Cen<g ref="char:EOLhyphen"/>tre of the Earth; so it is expresly told us in <hi>Job; Canst thou by searching find out God,</hi>
+               <note place="margin">Job 11.7.</note>
+               <hi>canst thou find out the Almighty to perfection? it is as high as heaven, what canst thou do; deeper than hell, what canst thou know?</hi>
+            </p>
+            <p n="4">4. It may be considered, that we daily see and ob<g ref="char:EOLhyphen"/>serve things, which did not manifest Experience convince
+<pb n="30" facs="tcp:199230:20"/>us of their being, we should be apt to disbelieve their possibility; Sense no less than Faith doth present us with Objects, to bare Rea<g ref="char:EOLhyphen"/>son, improbable and un<g ref="char:EOLhyphen"/>conceivable; so that should we attend to the Scruples injected thereby, we should hardly take things for pos<g ref="char:EOLhyphen"/>sible, which we behold ex<g ref="char:EOLhyphen"/>istent; we should distrust the greatest Evidence of Sense, and by our Logick put out our Eyes. Who would be<g ref="char:EOLhyphen"/>lieve, that, did he not eve<g ref="char:EOLhyphen"/>ry day see it; who can con<g ref="char:EOLhyphen"/>ceive how, although he seeth it, from a little, dry, ill-favoured, insipid Seed thrown
+<pb n="31" facs="tcp:199230:20"/>into the Earth, there short<g ref="char:EOLhyphen"/>ly would rise so goodly a Plant, endewed with so ex<g ref="char:EOLhyphen"/>act figure, so fragrant smell, so delicate taste, so lively colour; by what Engines it attracteth, by what Discre<g ref="char:EOLhyphen"/>tion it culleth out, by what Hands it mouldeth its pro<g ref="char:EOLhyphen"/>per aliment? by what Arti<g ref="char:EOLhyphen"/>fice it doth elaborate the same so curiously, and in<g ref="char:EOLhyphen"/>corporate it with it self? what vertue could we ima<g ref="char:EOLhyphen"/>gine in Nature able to di<g ref="char:EOLhyphen"/>gest an earthy Juice into the pellucid clearness of Chry<g ref="char:EOLhyphen"/>stal, into the invincible firm<g ref="char:EOLhyphen"/>ness of a Diamant? Who would not be an Infidel,
+<pb n="32" facs="tcp:199230:21"/>did not his Sight assure him of the Miracles atchieved by that blind plastick force, which without Eye or Hand doth frame such varieties of exquisite Workmanship; un<g ref="char:EOLhyphen"/>imitable, and far surpassing the Skill of the greatest Artist? That a little Star, from so vast a distance, in a mo<g ref="char:EOLhyphen"/>ment, should make impres<g ref="char:EOLhyphen"/>sion on our Eyes, replenish<g ref="char:EOLhyphen"/>ing with its Light or Image so spacious a Region all a<g ref="char:EOLhyphen"/>bout it, were we blind, we should hardly believe, we scarce could fancy: How, without knowing the Organs of Speech, or the manner of applying them, without
+<pb n="33" facs="tcp:199230:21"/>any care or pain employed by us, we so conform our Voice, as to express what Word, what Accent we please; how we do this, or that we can do it, as it will confound our Thought to imagine, so it would stag<g ref="char:EOLhyphen"/>ger our Faith to believe, did not our Conscience per<g ref="char:EOLhyphen"/>suade us that we can, and do speak: It is upon occa<g ref="char:EOLhyphen"/>sion very commonly said, I should never have believed it, had I not seen it; and that men speak so in ear<g ref="char:EOLhyphen"/>nest, many such Instances declare. Now if we can give credit to our Sense a<g ref="char:EOLhyphen"/>gainst the suffrage or scruple
+<pb n="34" facs="tcp:199230:22"/>of our Reason in things not so discosted from our capa<g ref="char:EOLhyphen"/>city of Knowledge, shall we not much more yield our Belief unto God's express Word in things so infinite<g ref="char:EOLhyphen"/>ly distant from it? If com<g ref="char:EOLhyphen"/>mon Experience can subdue our Judgments, and compel us to a belief of things in<g ref="char:EOLhyphen"/>credible, shall our Reason demur at submitting to Di<g ref="char:EOLhyphen"/>vine Authority? If the di<g ref="char:EOLhyphen"/>ctate of our Conscience doth convince us, shall not we much more surrender to the Testimony of <hi>God,</hi>
+               <note place="margin">1 Joh. 3.20.</note> who <hi>is greater than our conscience, and knoweth all things?</hi> If we do believe, because we
+<pb n="35" facs="tcp:199230:22"/>seem to know by seeing our selves; we should rather be<g ref="char:EOLhyphen"/>lieve, because we surely know by hearing from God; for Sense may deceive us, and often needeth correcti<g ref="char:EOLhyphen"/>on from Reason; God can<g ref="char:EOLhyphen"/>not deceive, and Reason often is by him corrected; which leadeth me to a farther Consideration, that</p>
+            <p n="5">5. The Propositions clear<g ref="char:EOLhyphen"/>ly delivered unto us by God himself, are upon many ac<g ref="char:EOLhyphen"/>compts more unquestiona<g ref="char:EOLhyphen"/>bly true, more credible than the Experiments of any Sense, or Principles of any Science; whence if there happen to
+<pb n="36" facs="tcp:199230:23"/>arise any seeming Contest between these, a precedence is due to the former, in derogation to the latter; it is fit that we rather give our Eyes and our Ears, our Fancies and our Reasons the lye, than anywise, by diffi<g ref="char:EOLhyphen"/>dence to his Word, put an affront on God; (for to disbelieve him, is (as Saint <hi>John</hi> telleth us) to give him the lye.)
+<note place="margin">1 Joh. 5.10.</note>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the folly of God</hi> (as St. <hi>Paul</hi> speaketh;
+<note place="margin">1 Cor. 1.25.</note> that is, the Points of Faith declared by God, which seem most irrational, and cross to the Decrees of Humane Wisdom) is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>wiser than men,</hi>
+               <pb n="37" facs="tcp:199230:23"/>that is, more assuredly con<g ref="char:EOLhyphen"/>sonant to real Truth, than our most undoubted Theo<g ref="char:EOLhyphen"/>remes of Science, and most current Maxims of Policy: God is the <hi>Father of all Lights,</hi> both of that which im<g ref="char:EOLhyphen"/>mediately shineth from Hea<g ref="char:EOLhyphen"/>ven, and of that which glim<g ref="char:EOLhyphen"/>mereth here below; he is the Fountain of all Truth, whether Natural, or Super<g ref="char:EOLhyphen"/>natural; but his Light, and his Truth he conveyeth in<g ref="char:EOLhyphen"/>to us by manners different; some Light streameth direct<g ref="char:EOLhyphen"/>ly from him, other cometh obliquely, being refracted through divers <hi>mediums,</hi> or reflected from several Ob<g ref="char:EOLhyphen"/>jects
+<pb n="38" facs="tcp:199230:24"/>upon us; the first sort must needs be more bright, and more pure, should be more powerful and efficaci<g ref="char:EOLhyphen"/>ous upon our Minds; the latter is often blended with material Tinctures, is weak<g ref="char:EOLhyphen"/>ned by the interruptions it meeteth with, loseth of its purity and its force by the many Conduits it passeth through, by the many Shades it mixeth with. Observati<g ref="char:EOLhyphen"/>ons of Sense do often prove fallacious, and their not ever doing so, dependeth upon divers Conditions, a right temper of the Organ, a fit disposition of the <hi>Medium,</hi> a just distance of the Ob<g ref="char:EOLhyphen"/>ject;
+<pb n="39" facs="tcp:199230:24"/>so that Conclusions de<g ref="char:EOLhyphen"/>rived from them cannot be so absolutely certain, nor consequently the Principles grounded on them; but Di<g ref="char:EOLhyphen"/>vine Revelation is not ob<g ref="char:EOLhyphen"/>noxious to such Conditions; as the Doctrines revealed are in themselves simply true, according to the highest pitch of necessity; because Su<g ref="char:EOLhyphen"/>preme Wisdom doth con<g ref="char:EOLhyphen"/>ceive them, and Truth it self doth vent them; so the manner of declaring them must be competent, because God himself doth chuse, and use it; there plainly needeth no more, than yielding an attentive Ear, and skilling
+<pb n="40" facs="tcp:199230:25"/>the Language wherein they are expressed, to secure us from Error, and uncertainty about them; so that well might St. <hi>Austin</hi> say, that <hi>in other things our Conjecture is ex<g ref="char:EOLhyphen"/>ercised;</hi>
+               <note place="margin">
+                  <hi>Ad caetera exercemur per fortasse; at cùm de rebus fidei agitur, ibi est certè sine fortè.</hi> Aug.</note>
+               <hi>but Faith a<g ref="char:EOLhyphen"/>lone doth assure our Mind.</hi>
+            </p>
+            <p>There have been those, you know, who have not only advanced doubts con<g ref="char:EOLhyphen"/>cerning Propositions attested to by clearest Sense, and in<g ref="char:EOLhyphen"/>ferr'd by strongest Discourse; but have by their argute Cavillations bid fair to shake the foundations of all Hu<g ref="char:EOLhyphen"/>mane Science; but I never
+<pb n="41" facs="tcp:199230:25"/>heard of any, who believed a God to be, that did con<g ref="char:EOLhyphen"/>test the infallible truth of his Oracles; <hi>Socrates</hi> we may be sure (his Excellent Scho<g ref="char:EOLhyphen"/>lar assuring us) who was so incredulous, as to disclaim all Pretence to Wisdom or Science, being Author of the famous Saying,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>Hoc tantùm scio;</hi> yet greatly did rely upon Divine Significations, and Testimonies, so deemed by him, and such as he could come at; alledging, that who followeth the Con<g ref="char:EOLhyphen"/>duct of his own Reason, in<g ref="char:EOLhyphen"/>stead of God's Direction, chuseth a blind and ignorant Guide, before one that best
+<pb n="42" facs="tcp:199230:26"/>seeth, and knoweth the way: <hi>He,</hi> saith the Hi<g ref="char:EOLhyphen"/>storian,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>despised all Humane Conceits in respect of God's Ad<g ref="char:EOLhyphen"/>vice.</hi>
+            </p>
+            <p>
+               <hi>He that formeth the eye,</hi>
+               <note place="margin">Psal. 94.9.</note> (saith the <hi>Psalmist</hi>) <hi>shall not he see; he that planted the ear, shall not he hear; he that teacheth man knowledge, shall not he know?</hi> He that en<g ref="char:EOLhyphen"/>dewed us with all our know<g ref="char:EOLhyphen"/>ing Faculties, and presideth over us in the management of them, shall not he super<g ref="char:EOLhyphen"/>eminently know all that we can? must not they in rea<g ref="char:EOLhyphen"/>son continue subordinate to his Direction? Should they
+<pb n="43" facs="tcp:199230:26"/>not always discern and judge under correction by him; with an Appeal and submissi<g ref="char:EOLhyphen"/>on reserved to his better Judg<g ref="char:EOLhyphen"/>ment?</p>
+            <p>I might adjoin, that the Object and the End (as well as the Author and the Man<g ref="char:EOLhyphen"/>ner) of Divine Revelation, doth argue it to surpass all Reason, and all Sense, in certainty and credibility; for Sense and Reason con<g ref="char:EOLhyphen"/>verse wholly, or chiefly a<g ref="char:EOLhyphen"/>bout Objects material and mutable; Revelation about immaterial and immutable things; They direct us in Af<g ref="char:EOLhyphen"/>fairs concerning this Transi<g ref="char:EOLhyphen"/>tory Life, This leadeth us to<g ref="char:EOLhyphen"/>ward
+<pb n="44" facs="tcp:199230:27"/>Eternal Felicity; to mistake about those Objects, to miscarry in those Affairs, is in it self of little, in com<g ref="char:EOLhyphen"/>parison, of no importance; but to judge rightly about these things, to tread safely in these paths, is of infinite<g ref="char:EOLhyphen"/>ly vast concernment; a smal<g ref="char:EOLhyphen"/>ler competency therefore of light and certainty might well suffice to the purposes of Reason and Sense, but to Faith the greatest degree of assurance is worthily due, and seemeth requisite. But farther,</p>
+            <p n="6">6. Not only the conside<g ref="char:EOLhyphen"/>ration of this Mystery, but
+<pb n="45" facs="tcp:199230:27"/>of all the Divine Attributes, will in like manner extort from our feeble Reason the Question of <hi>Nicodemus,</hi>
+               <note place="margin">Joh. 3.9.</note>
+               <hi>How can these things be?</hi> they will all of them equally puzzle our shallow Imagination, and baffle our slender Un<g ref="char:EOLhyphen"/>derstanding: For who can imagine, or understand, how God's Immensity doth con<g ref="char:EOLhyphen"/>sist with his perfect Simpli<g ref="char:EOLhyphen"/>city; or that without any parts he doth coexist to all possible extension of Matter; being all here, and wholly there, and immensely every where? Who can apprehend his Indivisible Eternity, or how all successions of Time
+<pb n="46" facs="tcp:199230:28"/>are ever present to him, and subject to his view; so that he is not older now, than he was when the World be<g ref="char:EOLhyphen"/>gan, nor younger than he will be after innumerable Ages are past; so that he foreseeth the most contin<g ref="char:EOLhyphen"/>gent Events, depending up<g ref="char:EOLhyphen"/>on Causes in their nature arbitary and indeterminate? Who can fancy, how out of mere Nothing, or out of extreme Confusion and Indis<g ref="char:EOLhyphen"/>posedness the World could be created, and framed into so goodly order, by a mere act of Will, or by the bare speaking of a word? How without any distraction of
+<pb n="47" facs="tcp:199230:28"/>thought he governeth Af<g ref="char:EOLhyphen"/>fairs, attending to the infi<g ref="char:EOLhyphen"/>nite varieties of Thoughts, Words, and Actions occur<g ref="char:EOLhyphen"/>ring here;
+<note place="margin">Confess. 3.11.</note> and <hi>ità curans uni<g ref="char:EOLhyphen"/>versos tanquam singulos, ità sin<g ref="char:EOLhyphen"/>gulos tanquam solos,</hi> as St. <hi>Au<g ref="char:EOLhyphen"/>stin</hi> speaketh? how he is tru<g ref="char:EOLhyphen"/>ly said to resolve and to re<g ref="char:EOLhyphen"/>verse, to love and hate, to be pleased and grieved, all without any real change, or <hi>shadow of alteration?</hi> how he suffereth many things to hap<g ref="char:EOLhyphen"/>pen, which extremely dis<g ref="char:EOLhyphen"/>please him, and which he can easily hinder; and doth not effect many things, which are much desired by him, and very feasible to his Power?
+<pb n="48" facs="tcp:199230:29"/>why to equal Men he distri<g ref="char:EOLhyphen"/>buteth his Gifts so unequal<g ref="char:EOLhyphen"/>ly; affording to divers abun<g ref="char:EOLhyphen"/>dant means of becoming hap<g ref="char:EOLhyphen"/>py, leaving others destitute of them? What Wit of man can reconcile his Infinite Be<g ref="char:EOLhyphen"/>nignity with his most severe Decrees; or compose the seeming differences between his Mercy and his Justice? Many such Perfections and Dispensations of God we must stedfastly believe, be<g ref="char:EOLhyphen"/>cause they are plainly taught in Scripture; to distrust them being to renounce Christiani<g ref="char:EOLhyphen"/>ty; to deny them being to race up the very foundations of our Religion; yet he
+<pb n="49" facs="tcp:199230:29"/>that shall with his utmost attention of mind endeavour to conceive how they can be, or how they consist toge<g ref="char:EOLhyphen"/>ther, according to our or<g ref="char:EOLhyphen"/>dinary notions of things, and the vulgar meaning of words, applied by us to these infe<g ref="char:EOLhyphen"/>rior matters, shall find him<g ref="char:EOLhyphen"/>self gravelled with innume<g ref="char:EOLhyphen"/>rable semblances of contra<g ref="char:EOLhyphen"/>diction, plung'd in depths inscrutable, involved in laby<g ref="char:EOLhyphen"/>rinths inextricable.</p>
+            <p>What in practice the Cross of Christ was, <hi>a scandal to Jews</hi> (men dull, but obsti<g ref="char:EOLhyphen"/>nate, and invincibly possessed by vain Prejudices) and <hi>folly
+<pb n="50" facs="tcp:199230:30"/>to Greeks</hi> (men of wit, and subtilty, but overweeningly conceited of them) that in Speculation may a great part of Di<g ref="char:EOLhyphen"/>vine Truths be,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Plut. <hi>de sera num. Vind.</hi>
+               </note> apt to stumble Fro<g ref="char:EOLhyphen"/>ward and Arrogant Men; but as there, so here, <hi>blessed are they who are not scandalized;</hi> whom no fond Scruple, or haugh<g ref="char:EOLhyphen"/>ty Conceit can pervert from readily embracing all neces<g ref="char:EOLhyphen"/>sary Verities; such are those we pointed at; which if without extreme folly and impiety we cannot reject, or be diffident of, although
+<pb n="51" facs="tcp:199230:30"/>surmounting our Conceit, and dazling our Reason; then upon the same accompt, with like facility, we must submit our Faith to the Doctrines concerning the B. Trinity, standing upon the same Authority.</p>
+            <p n="7">7. Lastly, We may con<g ref="char:EOLhyphen"/>sider and meditate upon the total In<g ref="char:EOLhyphen"/>comprehensibility of God in all things belonging to him;
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Chrys. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> in his Nature, his Attributes, his Decrees, his Works and Ways; which all are full of depth, mystery, and won<g ref="char:EOLhyphen"/>der. God <hi>inhabiteth,</hi>
+               <note place="margin">1 Tim. 6.16.</note>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<pb n="52" facs="tcp:199230:31"/>
+               <hi>a light inaccessible</hi> to the dim and weak sight of mortal Eyes;
+<note place="margin">Exod. 33.20.</note> which <hi>no man hath seen, or can see: No man</hi> (as he told his Servant <hi>Moses</hi>) <hi>can see his face</hi> (the very ex<g ref="char:EOLhyphen"/>teriour appearance of him) <hi>and live:</hi>
+               <note place="margin">Deut. 4.24.</note> He is <hi>a consuming fire,</hi> that will scorch, and de<g ref="char:EOLhyphen"/>vour such as by rash In<g ref="char:EOLhyphen"/>quiries approach too near him;
+<note place="margin">Exod. 24.17. <hi>Scrutator majestatis opprimetur à gloria.</hi> Aug.</note>
+               <hi>the sight</hi> ('tis said) <hi>of the glory of the Lord was like devouring fire in the sight of the children of Israel.</hi> Even those spiritual Eagles, the quick and strong<g ref="char:EOLhyphen"/>sighted Seraphims, are obliged to <hi>cover their faces,</hi>
+               <note place="margin">Isa. 6.2.</note> as not
+<pb n="53" facs="tcp:199230:31"/>daring to look upon, not able to sustain the fulgour of his immediate presence; the flashes of Glory and Majesty issuing from his Throne: And the most Il<g ref="char:EOLhyphen"/>luminate Secretaries of Hea<g ref="char:EOLhyphen"/>ven, unto whom Secrets were disclosed,
+<note place="margin">1 Pet. 1.12.</note> into which <hi>Angels themselves were ambitious to pry,</hi> were sometimes non-plust in contemplation of God's At<g ref="char:EOLhyphen"/>tributes and Actions; being in their astonishment forced to cry out, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.
+<note place="margin">Rom. 11.33.</note>
+               <hi>O the depth of the riches of the wisdom and knowledge of God!</hi> Even his Methods of exte<g ref="char:EOLhyphen"/>rior Providence are inscru<g ref="char:EOLhyphen"/>tably mysterious; <hi>his judge<g ref="char:EOLhyphen"/>ments
+<pb n="54" facs="tcp:199230:32"/>are</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; Greg. Naz. <hi>Or.</hi> 26.</note> like inexhaustible Mines, to the bot<g ref="char:EOLhyphen"/>tom whereof we cannot anywise dig by our inquiry; <hi>his paths are</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<note place="margin">2 Cor. 9.15.</note> so obscure as not to be traced by any footsteps of our Dis<g ref="char:EOLhyphen"/>course; <hi>his gifts are</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not to be interpreted, or expressed by our Language: And if all concerning God be thus incom<g ref="char:EOLhyphen"/>prehensible,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Theoph. <hi>ad Autol.</hi>
+               </note> why should any thing seem incredible? why out of so many unconceiva<g ref="char:EOLhyphen"/>ble Mysteries do
+<pb n="55" facs="tcp:199230:32"/>we chuse some, reprobate others? wherefore do we stretch our Judgment be<g ref="char:EOLhyphen"/>yond its limits unto things so infinitely exceeding it? why do we suffer our Rea<g ref="char:EOLhyphen"/>son to be pragmatical, un<g ref="char:EOLhyphen"/>justly invading the Office not belonging thereto;
+<note place="margin">Col. 2.18.</note>
+               <hi>in<g ref="char:EOLhyphen"/>truding into things which it hath not seen,</hi> nor can com<g ref="char:EOLhyphen"/>prehend; those <hi>secret things,</hi>
+               <note place="margin">Deut. 29.29.</note>
+               <hi>which belong to the Lord our God,</hi> and the comprehension whereof he hath reserved un<g ref="char:EOLhyphen"/>to himself?</p>
+            <p>These Considerations may suffice in some manner to
+<pb n="56" facs="tcp:199230:33"/>shew, that St. <hi>Chry<g ref="char:EOLhyphen"/>sostome</hi> had reason to exclaim so much against <hi>the madness,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Chrys. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> as he styleth it, of those, who do <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<note place="margin">
+                  <hi>Cogitemus si vale<g ref="char:EOLhyphen"/>mus, si non valemus credamus.</hi> Aug. <hi>Serm.</hi> 5. <hi>de Temp.</hi>
+               </note>
+               <hi>are busi<g ref="char:EOLhyphen"/>ly curious in specu<g ref="char:EOLhyphen"/>lation about the Es<g ref="char:EOLhyphen"/>sence of God;</hi> da<g ref="char:EOLhyphen"/>ring, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; Athan. <hi>T.</hi> 1. 625.</note>
+               <hi>to subject Divine My<g ref="char:EOLhyphen"/>steries to their own Ratiocinations;</hi> that Saint <hi>Basil</hi>'s Advice was wholsome, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<pb n="57" facs="tcp:199230:33"/>
+               <hi>not to be meddlesome about things, about which Ho<g ref="char:EOLhyphen"/>ly Scripture is silent:</hi> That
+<note n="†" place="bottom">Zeno Ve<g ref="char:EOLhyphen"/>ronens.</note> another Ancient Writer did say no less truly, than pret<g ref="char:EOLhyphen"/>tily, that in these matters <hi>curiositas reum facit, non pe<g ref="char:EOLhyphen"/>ritum;</hi> we may easilier in<g ref="char:EOLhyphen"/>cur blame, than attain skill by nice inquiry into them; that many of the Fathers do with great wisdom dis<g ref="char:EOLhyphen"/>like and dissuade the search<g ref="char:EOLhyphen"/>ing <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the manner of things being true, or possi<g ref="char:EOLhyphen"/>ble, as a suspicious Mark,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Expos. sid. apud <hi>Just. M.</hi>
+               </note> or a dan<g ref="char:EOLhyphen"/>gerous Motive of Infidelity; that St. <hi>Paul</hi>'s Rules, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<pb n="58" facs="tcp:199230:34"/>
+               <hi>to be wise so as withall to be sober,</hi>
+               <note place="margin">Rom. 12.3.</note> and modest; and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<note place="margin">1 Cor. 4.6.</note>
+               <hi>not to conceit any thing without warrant of Scrip<g ref="char:EOLhyphen"/>ture;</hi> are in this Case most especially to be heeded; that, according to St. <hi>Pe<g ref="char:EOLhyphen"/>ter</hi>'s Admonition, we should <hi>as new-born babes</hi> (unprepos<g ref="char:EOLhyphen"/>sessed, with any Notions or Fancies of our own) <hi>long for,</hi>
+               <note place="margin">1 Pet. 2.2. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>and greedily suck in the sincere milk of the word;</hi> not diluting it with baser Li<g ref="char:EOLhyphen"/>quors of Humane device; that where God doth in<g ref="char:EOLhyphen"/>terpose his definitive Sen<g ref="char:EOLhyphen"/>tence, our Reason hath no<g ref="char:EOLhyphen"/>thing to do but to at<g ref="char:EOLhyphen"/>tend
+<pb n="59" facs="tcp:199230:34"/>and submit; no right to vote, no licence to debate the matter; its Duty is to listen and ap<g ref="char:EOLhyphen"/>prove whatever God speak<g ref="char:EOLhyphen"/>eth, to read and subscribe to whatever he writeth; at least in any case it should be mute, or ready to fol<g ref="char:EOLhyphen"/>low <hi>Job,</hi> saying, <hi>Behold,</hi>
+               <note place="margin">Job 40.4.</note>
+               <hi>I am vile, what shall I answer thee? I will lay my hand upon my mouth:</hi> In fine, The Testimony of God, with a sufficient clearness represented to the Capa<g ref="char:EOLhyphen"/>city of an honest and do<g ref="char:EOLhyphen"/>cile Mind (void of all partial respects, and clear
+<pb n="60" facs="tcp:199230:35"/>from all sorts of preju<g ref="char:EOLhyphen"/>dice; loving Truth, and forward to entertain it; abhorring to wrest or wrack things, to use any fraud or violence upon any Principle, or ground of Truth) the Testimony of God, I say, so reveal<g ref="char:EOLhyphen"/>ed, whatever exception our shallow Reason can thrust in, should absolutely con<g ref="char:EOLhyphen"/>vince our Judgment, and constrain our Faith: If the Holy Scripture teacheth us plainly, and frequently doth inculcate upon us (that which also the uniform course of Nature, and the
+<pb n="61" facs="tcp:199230:35"/>peaceable government of the World doth also speak) that there is but One True God; if it as manifestly doth ascribe to the Three Persons of the Blessed Trini<g ref="char:EOLhyphen"/>ty the same August Names, the same Peculiar Chara<g ref="char:EOLhyphen"/>cters, the same Divine At<g ref="char:EOLhyphen"/>tributes (essential to the Deity) the same superla<g ref="char:EOLhyphen"/>tively admirable Operati<g ref="char:EOLhyphen"/>ons of Creation and Pro<g ref="char:EOLhyphen"/>vidence; if it also doth prescribe to them the same Supreme Honours, Services, Praises and Acknowledg<g ref="char:EOLhyphen"/>ments to be paid unto them all; this may be
+<pb n="62" facs="tcp:199230:36"/>abundantly enough to sa<g ref="char:EOLhyphen"/>tisfy our Minds, to stop our Mouths, to smother all Doubt and Dispute a<g ref="char:EOLhyphen"/>bout this High and Holy Mystery: It was exceed<g ref="char:EOLhyphen"/>ing Goodness in God, that he would condescend so far to instruct us; to disclose so noble a Truth unto us, to enrich our Minds with that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that <hi>most excellent knowledge of himself;</hi> and it would be no small Ingratitude and Unworthiness in us any-wise to suspect his Word, or pervert his meaning; any-wise to sub<g ref="char:EOLhyphen"/>ject
+<pb n="63" facs="tcp:199230:36"/>his Venerable Ora<g ref="char:EOLhyphen"/>cles to our rude Canvases and Cavils: In fine, The proper employment of our Mind about these Myste<g ref="char:EOLhyphen"/>ries, is not to search and speculate about them, to discourse flippantly and boldly about them; but with a pious Credulity to embrace them, with all humble Respect to adore them.</p>
+            <p>I have thus endeavour<g ref="char:EOLhyphen"/>ed in some measure to defend the Outworks of the Orthodox Doctrine concerning the Blessed Tri<g ref="char:EOLhyphen"/>nity;
+<pb n="64" facs="tcp:199230:37"/>it was beside my intent to insist so long thereon, but the Matter did <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, was so attra<g ref="char:EOLhyphen"/>ctive, that I could not wave shewing my Respect thereto.</p>
+            <p>I proceed now to that which I principally de<g ref="char:EOLhyphen"/>signed, the proposing brief<g ref="char:EOLhyphen"/>ly some practical Conside<g ref="char:EOLhyphen"/>rations, apt to excite us to the exercising our Un<g ref="char:EOLhyphen"/>derstanding and Affections upon those wonderful Dis<g ref="char:EOLhyphen"/>pensations of Grace and Mercy, vouchsafed to us by the Holy Trinity, ei<g ref="char:EOLhyphen"/>ther
+<pb n="65" facs="tcp:199230:37"/>conjunctly, or (as they <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> are ex<g ref="char:EOLhyphen"/>pressed) separately.</p>
+            <p>We first should care<g ref="char:EOLhyphen"/>fully study, and duly be affected with that graci<g ref="char:EOLhyphen"/>ous Consent, and (as it were) Confederacy of the Glorious Three in design<g ref="char:EOLhyphen"/>ing and prosecuting our good; their unanimous a<g ref="char:EOLhyphen"/>greement in uttering those three mighty words of fa<g ref="char:EOLhyphen"/>vour to Mankind, <hi>Facia<g ref="char:EOLhyphen"/>mus, Redimamus, Salvemus,</hi> Let us make Man out of nothing, let us recover him from Sin and Perdi<g ref="char:EOLhyphen"/>tion,
+<pb n="66" facs="tcp:199230:38"/>let us crown him with Joy and Salvation; we should, with grateful Resentments, observe them conspiring to employ their Wisdom in contriving fit Means and Methods to exert their Power in effe<g ref="char:EOLhyphen"/>ctual accomplishment of what was requisite to the promoting of our Wel<g ref="char:EOLhyphen"/>fare, the rescue of us from all Misery, the advancing us to the highest degree of Dignity, and instating us in the most perfect Condition of Happiness of which our Nature is ca<g ref="char:EOLhyphen"/>pable; in prosecution of
+<pb n="67" facs="tcp:199230:38"/>that gracious Design, which their joint Goodness had projected for us. More di<g ref="char:EOLhyphen"/>stinctly,</p>
+            <p n="1">1. We should set our Mind on God the Father before the Foundation of the World from all Eter<g ref="char:EOLhyphen"/>nity, pleasing to forecast with himself the Creation of us, and communica<g ref="char:EOLhyphen"/>tion of his own Image to us; endowing us with most excellent Faculties of Body and Soul; subject<g ref="char:EOLhyphen"/>ing the visible World to our use and governance; placing us in a state of
+<pb n="68" facs="tcp:199230:39"/>great accommodation and delight; permitting us to fall, that he might raise us to a higher and better Condition; resolving to send his own dear Son from his Bosome to pro<g ref="char:EOLhyphen"/>cure and purchase the Re<g ref="char:EOLhyphen"/>demption of Mankind; preparing and disposing the World for the recep<g ref="char:EOLhyphen"/>tion of so great a Mer<g ref="char:EOLhyphen"/>cy, by a general testifi<g ref="char:EOLhyphen"/>cation of his Patience and Beneficence (<hi>giving showers,</hi>
+               <note place="margin">Act. 14.17.</note>
+               <hi>and fruitful seasons,</hi> and <hi>filling the hearts of men with food and gladness</hi>) but more especially by Pro<g ref="char:EOLhyphen"/>phetical
+<pb n="69" facs="tcp:199230:39"/>Promises, Predi<g ref="char:EOLhyphen"/>ctions, and Prefigurations; also suffering the genera<g ref="char:EOLhyphen"/>lity of Mankind so <hi>to pro<g ref="char:EOLhyphen"/>ceed in its ways,</hi> as might render it sensible of its Error and Unhappiness, of the need and benefit of a Deliverance;
+<note place="margin">Gal. 4.4.</note> then <hi>in the fulness of time,</hi> when <hi>the creature did earnestly grown,</hi>
+               <note place="margin">Rom. 8.22.</note>
+               <hi>and long for its re<g ref="char:EOLhyphen"/>covery from vanity and sla<g ref="char:EOLhyphen"/>very,</hi> actually sending his only Son, and cloathing him with Humane Flesh, that conversing with us, he might discover to us his gracious Intentions to<g ref="char:EOLhyphen"/>ward
+<pb n="70" facs="tcp:199230:40"/>us, might confirm the truth thereof by Mi<g ref="char:EOLhyphen"/>raculous Works, might in<g ref="char:EOLhyphen"/>struct us by his Heavenly Doctrine and Holy Life in our Duty, and the Terms of our Salvation; then freely delivering him over unto Death, and ac<g ref="char:EOLhyphen"/>cepting his Passion as a Sacrifice expiating our Sins, and meriting his Favour to<g ref="char:EOLhyphen"/>ward us: Then raising him as <hi>the first fruits</hi> from the Dead, setting him at his Right Hand, investing him with Authority to govern and save those, who sin<g ref="char:EOLhyphen"/>cerely would believe in
+<pb n="71" facs="tcp:199230:40"/>him, and faithfully obey him; also sending and be<g ref="char:EOLhyphen"/>stowing his Holy Spirit to dwell in them, to con<g ref="char:EOLhyphen"/>duct, confirm, and com<g ref="char:EOLhyphen"/>fort them in the ways of Truth and Righteousness: These with manifold o<g ref="char:EOLhyphen"/>ther intercurrent Passages of gracious Providence, ascribed to God the Fa<g ref="char:EOLhyphen"/>ther, we should seriously mind, and so resent, as to be ravished with ad<g ref="char:EOLhyphen"/>miration of his Mercy; to be enflamed with love of his Goodness; to be possessed with gratitude to<g ref="char:EOLhyphen"/>ward him; to become tho<g ref="char:EOLhyphen"/>roughly
+<pb n="72" facs="tcp:199230:41"/>devoted to his Service.</p>
+            <p n="2">2. We should likewise mind the Blessed Son of God concurring with his Father in all his purposes of love and mercy to<g ref="char:EOLhyphen"/>ward us; in <hi>making all things,</hi> and <hi>sustaining them by the word of his power;</hi> but especially in his (to<g ref="char:EOLhyphen"/>ward the freeing us from the desperate Miseries, Cor<g ref="char:EOLhyphen"/>ruptions, and Slaveries, in<g ref="char:EOLhyphen"/>to which we were plunged) assuming Humane Nature, leading therein a trouble<g ref="char:EOLhyphen"/>some and toilsome Life,
+<pb n="73" facs="tcp:199230:41"/>for our benefit and instru<g ref="char:EOLhyphen"/>ction; undergoing a bitter and shameful Death, for the atonement of our Sins, and reconciliation of us to Divine Favour; purchasing great and precious Pro<g ref="char:EOLhyphen"/>mises, procuring high and glorious Privileges for us; ascending into Heaven to prepare us Mansions of Bliss; interceding for us with God, and pouring from above manifold Bles<g ref="char:EOLhyphen"/>sings upon us; the asto<g ref="char:EOLhyphen"/>nishing Miracles of Good<g ref="char:EOLhyphen"/>ness, of Wisdom, of Con<g ref="char:EOLhyphen"/>descension and Patience dis<g ref="char:EOLhyphen"/>played, in the management
+<pb n="74" facs="tcp:199230:42"/>of which Undertakings for us, what Heart can well conceive, what Tongue can utter? What amazement should it produce in us to consider the brightest efflux of Divine Glory eclipsing and shrowding it self under so dark a cloud of Mortal Frailty; the most High stooping into the qua<g ref="char:EOLhyphen"/>lity of so mean a Crea<g ref="char:EOLhyphen"/>ture; the First-born, and Heir Apparent of Heaven descending from his Throne of Eternal Majesty, and vo<g ref="char:EOLhyphen"/>luntarily degrading himself into the <hi>form of a servant,</hi> clad in Rags, worn with
+<pb n="75" facs="tcp:199230:42"/>labour and travel; expo<g ref="char:EOLhyphen"/>sed to contempt and dis<g ref="char:EOLhyphen"/>grace? To reflect upon the great Creator, and So<g ref="char:EOLhyphen"/>vereign Lord of all the World, who reared the Heavens, and founded the Earth, who possesseth and upholdeth all things, need<g ref="char:EOLhyphen"/>ing himself a Shelter, pinch<g ref="char:EOLhyphen"/>ed with Want, taking Alms from his Slaves, and pay<g ref="char:EOLhyphen"/>ing Tribute to his Sub<g ref="char:EOLhyphen"/>jects; to contemplate the Son of God willingly sty<g ref="char:EOLhyphen"/>ling himself the Son of Man, really subjecting him<g ref="char:EOLhyphen"/>self to the Duties, the Ne<g ref="char:EOLhyphen"/>cessities, the Infirmities of
+<pb n="76" facs="tcp:199230:43"/>Humane Nature; suffering the Coursest Hardships, and Extreamest Disasters thereof; all this upon freest Choice, with full Content<g ref="char:EOLhyphen"/>ment, and perfect Submis<g ref="char:EOLhyphen"/>sion to so mean and so dis<g ref="char:EOLhyphen"/>tastful a Condition.</p>
+            <p>We may observe with how admirable Goodness he did vouchsafe to con<g ref="char:EOLhyphen"/>verse with a froward Gene<g ref="char:EOLhyphen"/>ration of Men, to instruct a stupid and indocile sort of People, with all sorts of Beneficence to oblige an Incredulous, Insensible, and Ingrateful Crew; with how
+<pb n="77" facs="tcp:199230:43"/>invincible a Meekness and Patience he <hi>endured the con<g ref="char:EOLhyphen"/>tradiction of sinners;</hi> the Scornful Reproaches, the Wrongful Calumnies, the Spiteful and Cruel Usages of the Envious and Malici<g ref="char:EOLhyphen"/>ous World; being to the highest extremity despised, hated, maligned, and abu<g ref="char:EOLhyphen"/>sed by those, whom he had most highly honoured, most affectionately loved, and conferred the greatest Fa<g ref="char:EOLhyphen"/>vours upon. We may with astonishment contemplate that strange Contest be<g ref="char:EOLhyphen"/>tween Divine Patience, and Humane Wickedness, stri<g ref="char:EOLhyphen"/>ving
+<pb n="78" facs="tcp:199230:44"/>which of them should excel; when we do peruse and weigh those Enigmati<g ref="char:EOLhyphen"/>cal Passages, God accused by Man of Blasphemy, the Eternal Wisdom aspersed with Folly, Truth it self impleaded of Imposture, Essential Love made guilty of Mischief, and Supream Goodness styled a Malefa<g ref="char:EOLhyphen"/>ctor; Infinite Power beat down, and trampled upon by Impotent Malice; the Judge of all the World, the Fountain of all Authority and Right Arraigned, Con<g ref="char:EOLhyphen"/>demned, and Executed for Injustice; the <hi>desire of all na<g ref="char:EOLhyphen"/>tions</hi>
+               <pb n="79" facs="tcp:199230:44"/>rejected by his own Country and Kindred; the Joy of Paradise (whose light<g ref="char:EOLhyphen"/>some Countenance doth cheer Heaven it self) al<g ref="char:EOLhyphen"/>most overwhelmed with Grief, uttering lamentable Groans, tortured with grie<g ref="char:EOLhyphen"/>vous Agonies; the very Heart of God bleeding, and the sole Author of Life expiring.</p>
+            <p>We may farther study Jesus with a hearty Compas<g ref="char:EOLhyphen"/>sion, and Tears gushing from his inmost Bowels, pitying not these his own Sufferings, but for the Ven<g ref="char:EOLhyphen"/>geance
+<pb n="80" facs="tcp:199230:45"/>for them due and decreed unto his Persecu<g ref="char:EOLhyphen"/>tors; we should mark him excusing their Fault, and praying for their Pardon; dying willingly for their good, when he dyed vio<g ref="char:EOLhyphen"/>lently by their Hand; pas<g ref="char:EOLhyphen"/>sionately desiring their Sal<g ref="char:EOLhyphen"/>vation, when they malici<g ref="char:EOLhyphen"/>ously procured his Destru<g ref="char:EOLhyphen"/>ction.</p>
+            <p>We should mind all the Actions of the Son of God, our Saviour, with the most wise Grounds, endearing Circumstances, and precious Fruits of them; his Birth,
+<pb n="81" facs="tcp:199230:45"/>Life, Death, Resurrection, Ascension; Intercession, as containing Instances of the greatest Charity and Humi<g ref="char:EOLhyphen"/>lity possible shewed unto us, as Arguments of the greatest Love and Grati<g ref="char:EOLhyphen"/>tude due from us: Mind them we should most se<g ref="char:EOLhyphen"/>riously so as to be heartily affected with them; so as to esteem worthily the trans<g ref="char:EOLhyphen"/>cendent Honour done us by God assuming our Na<g ref="char:EOLhyphen"/>ture, and exalting us to a conjunction with the Divine Nature; so as to be deeply sensible of our Obligation to so immense a Charity, that
+<pb n="82" facs="tcp:199230:46"/>could do and suffer so much for us, without any desert of ours, yea notwithstand<g ref="char:EOLhyphen"/>ing our exceedingly bad De<g ref="char:EOLhyphen"/>serts, our Rebellions and Enmities against him; so as to detest the heinousness of our Sins, that needed so mighty an Expiation, that caused so horrid a Tragedy; so as not to neglect so great Salvation so frankly offered, so dearly purchased for us; not to frustrate the Designs of so unconceivable Love and Goodness; so as to obey readily so Gracious a Master, to follow carefully so Admirable an Example;
+<pb n="83" facs="tcp:199230:46"/>so as in imitation of him, and for his sake to be meek, and humble in heart, and in deed; seeing he did so infi<g ref="char:EOLhyphen"/>nitely condescend and abase himself for us; to be pa<g ref="char:EOLhyphen"/>tient and submissive to his Will, who stooped so low, and suffered so much for us; so as to bear a general af<g ref="char:EOLhyphen"/>fection to Mankind, ground<g ref="char:EOLhyphen"/>ed like his, not upon any particular Interests, nor li<g ref="char:EOLhyphen"/>mited by any partial Re<g ref="char:EOLhyphen"/>spects; but extended freely, in real desire and intention, toward all; liberally to im<g ref="char:EOLhyphen"/>part the good things we pos<g ref="char:EOLhyphen"/>sess, and patiently to brook
+<pb n="84" facs="tcp:199230:47"/>the Crosses we meet with, and heartily to forgive the Of<g ref="char:EOLhyphen"/>fences done to us; for that he freely did part with the greatest Glories of Eternity, with the highest Dignities, and the richest Treasures of Heaven for our sake; when we were <hi>enemies in our minds by wicked works, dead in tres<g ref="char:EOLhyphen"/>passes and sins,</hi> guilty of num<g ref="char:EOLhyphen"/>berless grievous Offences a<g ref="char:EOLhyphen"/>gainst him, by his Blood re<g ref="char:EOLhyphen"/>deeming us from Wrath, re<g ref="char:EOLhyphen"/>conciling us to the Mercy and Favour of God.</p>
+            <p n="3">3. We should also me<g ref="char:EOLhyphen"/>ditate upon the Blessed Spi<g ref="char:EOLhyphen"/>rit
+<pb n="85" facs="tcp:199230:47"/>of God, with equal Good<g ref="char:EOLhyphen"/>ness conspiring, and co-ope<g ref="char:EOLhyphen"/>rating with all the Purposes, to all the Effects of Grace, which conduce to our Ever<g ref="char:EOLhyphen"/>lasting Happiness; more es<g ref="char:EOLhyphen"/>pecially as the Repairer of our decayed Frames, the Enlivener of our dead Souls, the Infuser of spiritual Light into our dark Minds, the Kindler of spiritual Warmth into our cold Hearts; the Raiser of spiritual Appetite to Righteousness, and the Relish of Goodness in our stupid Senses; the Imparter of spiritual Strength and Vi<g ref="char:EOLhyphen"/>gour to our feeble Powers;
+<pb n="86" facs="tcp:199230:48"/>the Author of all Liberty, loosing us from Captivity under the Tyranny of Sa<g ref="char:EOLhyphen"/>tan, from Vasallage unto our own Carnal Lusts and Passions; from subjection to a hard and imperious Law, from bondage to the Ter<g ref="char:EOLhyphen"/>rors of a guilty Conscience: As him, that enableth us to perform the Duties, and ac<g ref="char:EOLhyphen"/>complish the Conditions re<g ref="char:EOLhyphen"/>quired of us in order to our Salvation; that qualifieth us to be the Sons of God by his effectual Grace, and as<g ref="char:EOLhyphen"/>sureth us that we are so by his comfortable Testi<g ref="char:EOLhyphen"/>mony; as our sure Guide
+<pb n="87" facs="tcp:199230:48"/>in the ways of Truth and Vertue; our faithful Coun<g ref="char:EOLhyphen"/>sellour in all Doubts and Darknesses; our mighty Support and Succour in all Needs, in all Distresses; our ready Guard against all Assaults and Tempta<g ref="char:EOLhyphen"/>tions; our sweet Comfor<g ref="char:EOLhyphen"/>ter in all Sadnesses and Afflictions: Who doth in<g ref="char:EOLhyphen"/>sinuate good Thoughts, doth kindle holy Desires, doth cherish pious Reso<g ref="char:EOLhyphen"/>lutions, doth further honest Endeavours in us: Who only doth enflame our Hearts with Devotion to<g ref="char:EOLhyphen"/>ward God; doth encou<g ref="char:EOLhyphen"/>rage,
+<pb n="88" facs="tcp:199230:49"/>doth enable us to approach unto him; doth prompt us with fit matter of request, and becometh Advocate for the good Success of our Prayers.</p>
+            <p>We should mind him as the Root of all good Fruits growing in us, or sprout<g ref="char:EOLhyphen"/>ing from us; the Producer of all good Habits formed in us, the Assister of all good Works performed by us; the Spring of all true Content, that we enjoy; unto whom our embra<g ref="char:EOLhyphen"/>cing the Faith, our conti<g ref="char:EOLhyphen"/>nuing in Hope, our work<g ref="char:EOLhyphen"/>ing
+<pb n="89" facs="tcp:199230:49"/>in Charity; the puri<g ref="char:EOLhyphen"/>fication of our Hearts, the mortification of our Lusts, the sanctification of our Lives, the Salvation of our Souls are principally due, are most justly ascribed: As the Author and Pre<g ref="char:EOLhyphen"/>server of so inestimable Be<g ref="char:EOLhyphen"/>nefits unto us, let us mind him; and withal, let us consider him as condes<g ref="char:EOLhyphen"/>cending to be a Loving Friend and constant Guest unto so mean and un<g ref="char:EOLhyphen"/>worthy Creatures; vouch<g ref="char:EOLhyphen"/>safing to attend over us, to converse with us, to dwell in us; rendring our
+<pb n="90" facs="tcp:199230:50"/>Souls holy Temples of his Divinity, Royal Thrones of his Majesty, bright Orbs of his heavenly Light, pleasant Paradises of his blisful Presence; our Souls, which naturally are pro<g ref="char:EOLhyphen"/>fane Receptacles of Wick<g ref="char:EOLhyphen"/>ed, and impure Affecti<g ref="char:EOLhyphen"/>ons; dark Cells of false and fond Imaginations, close Prisons of black and sad Thoughts: As graci<g ref="char:EOLhyphen"/>ously <hi>striving with us;</hi> striving to open and en<g ref="char:EOLhyphen"/>ter into our Hearts, barr'd against him by vain Con<g ref="char:EOLhyphen"/>ceits, and vicious Inclina<g ref="char:EOLhyphen"/>tions; striving to reclaim
+<pb n="91" facs="tcp:199230:50"/>us from the Sins and Er<g ref="char:EOLhyphen"/>rors, into which we are wont heedlesly or wilful<g ref="char:EOLhyphen"/>ly to precipitate our selves; striving to make us what in all duty and wisdom we should be, capable of Divine Favour, and fit for Everlasting Happiness: As enduring patiently ma<g ref="char:EOLhyphen"/>nifold Displeasures and Dis<g ref="char:EOLhyphen"/>respects from us; our rude Oppositions against him, our frequent neglects of his kind Admonitions; our many perverse Humours, wanton Freaks, wilful Miscarriages, and unworthy Dealings to<g ref="char:EOLhyphen"/>ward him.</p>
+            <pb n="92" facs="tcp:199230:51"/>
+            <p> We should thus mind the Blessed Spirit of God, and be sutably affected to<g ref="char:EOLhyphen"/>ward him; so as to be duly sensible and thankful for those unexpressible Gifts and Blessings indulged to us by him; so as to render all Love and Reverence, all Praise and Glory, all Obedience and Service to him; especially so as to admit him cheerfully into our Hearts, yea invite him thither by our earnest Prayers; to make fit pre<g ref="char:EOLhyphen"/>parations for his Recep<g ref="char:EOLhyphen"/>tion and Intertainment (by
+<pb n="93" facs="tcp:199230:51"/>cleansing our Hearts from all loathsome Impurities) to make him welcome, and treat him kindly, with all civil respect, with all humble observance; not <hi>grieving</hi> and vexing him by our distastful Crosness or Peevishness; not tempt<g ref="char:EOLhyphen"/>ing him by our fond Pre<g ref="char:EOLhyphen"/>sumption; or base Trea<g ref="char:EOLhyphen"/>chery; not extinguishing his heavenly Light, and holy Fire by our foul Lusts, our damp Stupidi<g ref="char:EOLhyphen"/>ties, our cold Neglects; our Neglects to foment and nourish them by the food of devout Medita<g ref="char:EOLhyphen"/>tions
+<pb n="94" facs="tcp:199230:52"/>and zealous Desires: So let us mind him, as to admit gladly his gentle Illapses, to delight in his most pleasant Society, to hearken to his faithful Sug<g ref="char:EOLhyphen"/>gestions; to comply with all his kindly Motions; to behave our selves mo<g ref="char:EOLhyphen"/>destly, consistently, and of<g ref="char:EOLhyphen"/>ficiously toward him.</p>
+            <p>Thus should we employ our Mind, all the Facul<g ref="char:EOLhyphen"/>ties of our Soul, our Un<g ref="char:EOLhyphen"/>derstanding, our Will, our Affections upon the Bles<g ref="char:EOLhyphen"/>sed Trinity, the Supream of all things above; the
+<pb n="95" facs="tcp:199230:52"/>Founder of that Celestial Society, into which as Chri<g ref="char:EOLhyphen"/>stians we are inserted; the Sovereign of that heavenly Kingdom, to which we are Subjects; the Fountain of all the Good and Hap<g ref="char:EOLhyphen"/>piness we can hope for in that Superior State: To the performance of which Duty there be Arguments and Inducements innume<g ref="char:EOLhyphen"/>rable; 'tis the most pro<g ref="char:EOLhyphen"/>per and connatural Object of our Mind, that for which it is fittest, and for which it was designed; the best Intelligible, and infinitely most Amiable of all things:
+<pb n="96" facs="tcp:199230:53"/>'Tis the most worthy, and noble Object, the contem<g ref="char:EOLhyphen"/>plation of which, and af<g ref="char:EOLhyphen"/>fection whereto, will most elevate, most enrich, most adorn, most enlarge the Capacities, and most satis<g ref="char:EOLhyphen"/>fy the Appetites of our Souls: 'Tis the most sweet and pleasant Object, where<g ref="char:EOLhyphen"/>in all Light, all Beauty, all Perfection do shine; the sight and love of which do constitute Paradise, and beatify Heaven it self: 'Tis the most useful and bene<g ref="char:EOLhyphen"/>ficial Object of our Mind, which will best instruct us in what it concerneth us to
+<pb n="97" facs="tcp:199230:53"/>know, will most incite us to those Duties which we are obliged to perform; will be most efficacious to the begetting in us those Dispositions, which are in<g ref="char:EOLhyphen"/>dispensably requisite for the attainment, and for the en<g ref="char:EOLhyphen"/>joyment of that Everlasting Bliss; unto which that one Blessed Unity, and Glorious Trinity in its infinite Mercy bring us all: To whom be all Glory, Honour, and Praise for ever. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:199230:54"/>
+            <head>Catalogue of some Books Printed for <hi>B. Aylmer.</hi>
+            </head>
+            <p>THE Works of the Learned <hi>Isaac Barraw,</hi> D.D. late Master of <hi>Trinity</hi> Colledge in <hi>Cambridge.</hi> Published by the Reverend Dr. <hi>Tillotson,</hi> late Arch<g ref="char:EOLhyphen"/>bishop of <hi>Canterbury.</hi> The Third Volume. Con<g ref="char:EOLhyphen"/>taining Forty five Sermons, upon several Occasions, compleating his <hi>English</hi> Works.</p>
+            <p>A Brief Exposition on the Creed, the Lord's Prayer, and Ten Commandments. To which is added the Doctrine of the Sacraments. By <hi>Isaac Barrow,</hi> D. D And late Master of <hi>Trinity</hi> College, <hi>Cambridge.</hi> This on the Creed never before Pub<g ref="char:EOLhyphen"/>lished: Being very different from the Volume of Sermons on it. In 8vo.</p>
+            <p>Practical Discourses upon the Consideration of our Latter End, and the Danger and Mischief of Delaying Repentance. By Dr. <hi>Isaac Barrow.</hi> In 8vo. Price 18 <hi>d.</hi>
+            </p>
+            <div type="part">
+               <head>These following writ by <hi>Dr.</hi> Assheton.</head>
+               <p>A Conference with an Anabaptist. Being a De<g ref="char:EOLhyphen"/>fence of Infant-Baptism. In 8vo. Price 12 <hi>d.</hi>
+               </p>
+               <p>A Theological Discourse of Last Wills and Te<g ref="char:EOLhyphen"/>staments. In 8vo. Price 12 <hi>d.</hi>
+               </p>
+               <p>A Discourse concerning a Death-Bed Repentance. Price 6 <hi>d.</hi>
+               </p>
+               <p>A Seasonable Vindication of the <hi>B. Trinity.</hi> Be<g ref="char:EOLhyphen"/>ing an Answer to this Question, <hi>Why do you believe the Doctrine of the Trinity?</hi> Collected from the Works of the Most Reverend, Dr. <hi>John Tillotson,</hi> Late Lord Archbishop of <hi>Canterbury.</hi> And the Right Reverend, Dr. <hi>Edward Stillingsteet,</hi> now Lord Bishop of <hi>Wor<g ref="char:EOLhyphen"/>cester.</hi> Price 12 <hi>d.</hi>
+               </p>
+               <p>Several small Books, <hi>viz.</hi> A Method of Daily De<g ref="char:EOLhyphen"/>votion: Against Debauchery, Profaneness, Blasphe<g ref="char:EOLhyphen"/>my, Cursing and Swearing, <hi>&amp;c.</hi> By Dr. <hi>Assheton.</hi> Price 2 <hi>d.</hi> each, and something cheaper to them that give away Numbers.</p>
+               <pb facs="tcp:199230:54"/>
+            </div>
+         </div>
+      </back>
+   </text>
+</TEI>
